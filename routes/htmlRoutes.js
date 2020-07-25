@@ -1,7 +1,7 @@
 
 //The Path module provides a way of working with directories and file paths.
 const path = require("path")
-// db.json file will be used to store and retrieve notes using the fs module
+
 
 
 module.exports = function (app) {
